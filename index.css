@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Cursed Timer Ulil';
+    src: url('fonts/CursedTimerUlil-Aznm.ttf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.font-style{
+    font-family: 'Cursed Timer Ulil', sans-serif;
+}
+#Align-frame{
+text-align: center;
+margin-top: 180px;
+margin-left: 500px;
+background-color: rgb(2, 29, 86);
+margin-right: 500px;
+border-radius: 14px;
+border: 5px solid white;
+}
+#table-align{
+    padding-left: 90px;
+}
+#box-1{
+    font-size: 85px;
+    color: rgb(181, 40, 57);
+    border: 0px;
+    border-style: solid;
+    padding-bottom: 30px;
+    padding-right: 22px;
+    padding-top: 20px;
+}
+#box-2{
+    font-size: 85px;
+    color:rgb(181, 40, 57);
+    border:0px;
+    border-style: solid;
+    padding-bottom: 30px;
+    padding-left: 22px;
+    padding-top: 20px;
+}
+.right-padding{
+    padding-right: 25px;
+    padding-bottom:40px;
+}
+.left-padding{
+    padding-left: 25px;
+    padding-bottom:40px;
+}
+table{
+    border: 4px;
+
+}
+th{
+    padding-top: 10px;
+    font-size: 42px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+#bx-1{
+    background-color: black;
+    border-radius: 8px;
+}
+#bx-2{
+    background-color: black;
+    border-radius: 8px;
+}
+
